@@ -1,3 +1,4 @@
+
 import { ReactElement, useContext } from "react";
 import "../index.css";
 import { menuContext } from "../contexts/menu";
@@ -59,10 +60,10 @@ function Sidebar() {
           </button>
         </div>
         <select className="w-[90%] mt-2 md:w-[12rem] text-xl border-[1px] border-gray-300 rounded-lg p-2">
-          <option value="UtkarshDhairy">UtkarshDhairy</option>
-          <option value="Aulakh">Aulakh</option>
-          <option value="Grewal">Grewal</option>
-          <option value="Randhawa">Randhawa</option>
+          <option value="Gaurav">Gaurav</option>
+          <option value="Aniket">Aniket</option>
+          <option value="Ram">Ram</option>
+          <option value="Sumit">Sumit</option>
         </select>
         <div className="flex flex-col md:w-max w-full gap-2 mt-8">
           {data.map((item) => (
@@ -76,10 +77,10 @@ function Sidebar() {
           <p>CodeAnt AI</p>
         </div>
         <select className="w-[12rem] text-xl border-[1px] border-gray-300 rounded-lg p-2">
-          <option value="UtkarshDhairy">UtkarshDhairy</option>
-          <option value="Aulakh">Aulakh</option>
-          <option value="Grewal">Grewal</option>
-          <option value="Randhawa">Randhawa</option>
+          <option value="Gaurav">Gaurav</option>
+          <option value="Aniket">Aniket</option>
+          <option value="Ram">Ram</option>
+          <option value="Sumit">Sumit</option>
         </select>
         <div className="flex flex-col gap-4">
           {data.map((item) => (
