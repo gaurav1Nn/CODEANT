@@ -15,7 +15,7 @@ Node.js (v16+)
 npm or yarn
 
 Installation
-bashCopy# Clone the repository
+Clone the repository
 git clone https://github.com/yourusername/codeant.git
 
 # Navigate to project directory
