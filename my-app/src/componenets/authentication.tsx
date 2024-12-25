@@ -1,6 +1,6 @@
 import { Outlet } from "react-router-dom";
 import { NavLink } from "react-router-dom";
-export function Auth() {
+export function Authentication() {
   return (
     <div className="bg-[#fafafa] md:flex md:flex-row md:justify-center md:items-center h-[100vh] border-[1px] border-[#f3f2f2]">
       <div className="bg-[#ffffff] h-[100vh] md:flex flex-col items-center justify-center w-[50%]  hidden">
@@ -164,4 +164,4 @@ const data = [
     onClick: "",
   },
 ];
-export default Auth;
+export default Authentication;
