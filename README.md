@@ -19,12 +19,17 @@ bashCopy# Clone the repository
 git clone https://github.com/yourusername/codeant.git
 
 # Navigate to project directory
-cd codeant
+cd my-app
+
+# Libraries Used
+react-router-dom
+react-icons
 
 # Install dependencies
-npm install
-Development
-bashCopy# Start development server
+npm install 
+npm install react-router-dom
+npm install react-icons
+
 npm run dev
 
 # Build for production
