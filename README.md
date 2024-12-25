@@ -16,7 +16,7 @@ npm or yarn
 
 Installation
 Clone the repository
-git clone https://github.com/yourusername/codeant.git
+git clone https://github.com/gaurav1Nn/CODEANT.git
 
 # Navigate to project directory
 cd my-app
