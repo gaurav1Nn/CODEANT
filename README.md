@@ -1,5 +1,5 @@
 CodeAnt
-A modern web application built with TypeScript and Vite.
+A modern web application built with TypeScript.
 Tech Stack
 
 # Deployed on Netlify
